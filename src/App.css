@@ -1,3 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i");
+@import url("./assets/vendor/bootstrap/css/bootstrap.min.css");
+@import url("./assets/vendor/bootstrap-icons/bootstrap-icons.css");
+@import url("./assets/vendor/boxicons/css/boxicons.min.css");
+@import url("./assets/vendor/quill/quill.snow.css");
+@import url("./assets/vendor/quill/quill.bubble.css");
+@import url("./assets/vendor/remixicon/remixicon.css");
+@import url("./assets/vendor/simple-datatables/style.css");
+@import url("./assets/css/style.css");
+
 .App {
   text-align: center;
 }
